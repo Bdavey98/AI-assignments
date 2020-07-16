@@ -1,0 +1,24 @@
+Blue Mountains 1250	
+Grey Havens 1200	
+White Towers 1150	
+Michel Delving 1075	
+Lake Evendim 1025	
+Fornost 925	
+Hobbiton 1050	
+Brandy Hall 1000	
+Bree 900	
+Sarn Ford 975	
+Weathertop 825	
+Rivendell 580	
+Caradhras 550
+North Pass 500
+Carrock 450
+Gladden Fields 500
+Lothlorien 660
+Isengard 890
+Moria 620
+Dol Guldur 500
+Wood Elves 275
+Esgaroth 175
+Erebor 200
+Dale 180

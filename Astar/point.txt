@@ -1,0 +1,48 @@
+Blue Mountains
+Lake Evendim	250	0	41	9 Michel Delving	270	65	15	20 White Towers	225	75	21	21 Grey Havens	240	75	21	21
+Lake Evendim
+Fornost	85	11	64	13 Michel Delving	110	2	55	19
+Grey Havens
+White Towers	100	95	8	20 Sarn Ford	270	30	12	11
+White Towers
+Michel Delving	40	54	7	14 Hobbiton	70	62	6	13
+Michel Delving
+Hobbiton	35	87	1	24 Brandy Hall	80	79	6	22
+Hobbiton
+Brandy Hall	50	73	7	22 Bree	100	65	9	15 Sarn Ford	130	47	27	11
+Brandy Hall
+Bree	50	68	6	18
+Bree
+Fornost	115	41	38	13 Weathertop	100	36	67	11 Sarn Ford	105	40	35	13
+Fornost
+Weathertop	160	23	65	10 Rivendell	375	14	58	15
+Sarn Ford
+Weathertop	180	13	61	10 Rivendell	400	15	55	10 Isengard	500	0	72	14
+Weathertop
+Rivendell 230	50	45	13
+Rivendell
+North Pass	100	2	65	7 Caradhras	60	25	69	1 Moria	180	15	90	17 Isengard	500	12	85	21
+North Pass
+Carrock	80	0	75	2
+Caradhras
+Carrock	70	0	78	1 Gladden Fields	150	12	65	3 Lothlorien	300	32	55	16
+Moria
+Gladden Fields	140	16	85	15 Lothlorien	20	21	72	17
+Gladden Fields
+Esgaroth	400	0	63	18 Dol Guldur	175	2	82	17 Lothlorien	190	18	62	18
+Lothlorien
+Dol Guldur	180	0	85	18 Isengard	240	28	80	20
+Carrock
+Wood Elves	175	12	64	14 Erebor	250	18	75	12 Esgaroth	240	24	75	12 Dol Guldur	300	0	85	15
+Dol Guldur
+Isengard	390	0	83	16 Carrock 300 0 85 15
+Wood Elves
+Dale	90	84	31	23 Erebor	100	90	31	22
+Esgaroth
+Dale	40	95	10	24 Erebor	50	98	8	23 Iron Hills	175	82	38	19
+Dale
+Erebor	10	99	5	25 Iron Hills	180	87	35	18
+Isengard
+Sarn Ford 500 0 72 14 Rivendell 500 12 85 21 Lothlorien 240 28 80 20 Dol Guldur 390 0 83 16
+Erebor
+Iron Hills	200	91	35	20

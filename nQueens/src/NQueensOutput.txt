@@ -1,0 +1,13 @@
+1000 null
+1000 null
+1000 null
+137 [6, 4, 12, 0, 9, 7, 2, 11, 1, 8, 10, 5, 3]
+1000 null
+1000 null
+1000 null
+1000 null
+1000 null
+1000 null
+1000 null
+1000 null
+1000 null
